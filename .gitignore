@@ -2,3 +2,5 @@ composer.phar
 composer.lock
 vendor/
 *~
+views/templates_c
+views/cache
